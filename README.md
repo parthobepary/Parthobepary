@@ -24,13 +24,13 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawatlalit912&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawatlalit912&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Partho's Github Stats">
 
 </br>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawatlalit912&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawatlalit912&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/parthobepary/github-readme-stats)
 
 
 
@@ -42,4 +42,3 @@
 &nbsp; <a href="https://www.facebook.com/pallabbiswas.pallabbiswas.1999" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
 </p>
 
-⭐️ From [kumawatlalit912](https://github.com/kumawatlalit912)
