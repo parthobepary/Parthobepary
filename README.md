@@ -53,7 +53,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://coruscating-pegasus-4fbaa1.netlify.app/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/partho-bepary-53a917229/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/pallabbiswas.pallabbiswas.1999"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://coruscating-pegasus-4fbaa1.netlify.app/"><img src="https://img.shields.io/badge/-partho.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/partho-bepary-53a917229/"><img src="https://img.shields.io/badge/-partho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/pallabbiswas.pallabbiswas.1999"><img src="https://img.shields.io/badge/-@Partho?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
