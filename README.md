@@ -24,7 +24,9 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 <!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
@@ -55,5 +57,5 @@
 <p align="center">
 <a href="https://coruscating-pegasus-4fbaa1.netlify.app/"><img src="https://img.shields.io/badge/-partho.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/partho-bepary-53a917229/"><img src="https://img.shields.io/badge/-partho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/pallabbiswas.pallabbiswas.1999"><img src="https://img.shields.io/badge/-@Partho?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/pallabbiswas.pallabbiswas.1999"><img src="https://img.shields.io/badge/-Partho?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
