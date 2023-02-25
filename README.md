@@ -25,8 +25,9 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 <!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
