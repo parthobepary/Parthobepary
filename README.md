@@ -27,8 +27,8 @@
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
-![Laravel](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=laravel)&nbsp;
-![Php](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
