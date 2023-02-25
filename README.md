@@ -26,7 +26,7 @@
 <!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
