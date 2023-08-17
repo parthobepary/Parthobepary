@@ -1,4 +1,4 @@
-![logo](ParthoBanner.png)  
+![logo](Partho Banner.png)  
 ### Web developer || software engineer || MERN Stack developer
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Partho</h2>
 
