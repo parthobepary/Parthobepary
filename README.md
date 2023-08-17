@@ -63,5 +63,5 @@
 <a href="https://www.linkedin.com/in/partho-bepary-53a917229/"><img src="https://img.shields.io/badge/-partho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/pallabbiswas.pallabbiswas.1999"><img src="https://img.shields.io/badge/-Partho?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-<img alt="Night Coding" src="boy-coding.gif" align="right"/>
+<img alt="Night Coding" src="boy-coding.gif" align="right"/> 
 
