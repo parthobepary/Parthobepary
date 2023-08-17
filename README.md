@@ -1,4 +1,4 @@
-<!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
+![logo](Partho Banner.png)  
 ### Web developer || software engineer || MERN Stack developer
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Partho</h2>
 
