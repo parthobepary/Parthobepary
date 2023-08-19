@@ -59,9 +59,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://coruscating-pegasus-4fbaa1.netlify.app/"><img src="https://img.shields.io/badge/-partho.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/partho-bepary-53a917229/"><img src="https://img.shields.io/badge/-partho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/pallabbiswas.pallabbiswas.1999"><img src="https://img.shields.io/badge/-Partho?style=flat&logo=Facebook&logoColor=white"/></a>
+<a target='blank' href="https://parthobepary.vercel.app/"><img src="https://img.shields.io/badge/-partho.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a target='blank' href="https://www.linkedin.com/in/partho-bepary-53a917229/"><img src="https://img.shields.io/badge/-partho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target='blank' href="https://www.facebook.com/pallabbiswas.pallabbiswas.1999"><img src="https://img.shields.io/badge/-Partho?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 <img alt="Night Coding" src="boy-coding.gif" align="center"/> 
 
