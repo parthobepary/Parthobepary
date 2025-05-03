@@ -1,8 +1,8 @@
 ![logo](profile.png)  
-### Web developer || software engineer || MERN Stack developer
+### Software Engineer || Full Stack Developer 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Partho</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Partho bepary -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -31,11 +31,9 @@ You can check out my work in the pinned repositories or on [my portfolio](https:
 
 <!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
@@ -49,9 +47,6 @@ You can check out my work in the pinned repositories or on [my portfolio](https:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 ### 🧰 &nbsp;Tools & Platforms
 
@@ -81,6 +76,8 @@ You can check out my work in the pinned repositories or on [my portfolio](https:
 </a>
 </p>
 
+<img alt="Night Coding" src="boy-coding.gif" align="center"/> 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -88,5 +85,4 @@ You can check out my work in the pinned repositories or on [my portfolio](https:
 <a target='blank' href="https://www.linkedin.com/in/partho-bepary-53a917229/"><img src="https://img.shields.io/badge/-partho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target='blank' href="https://www.facebook.com/pallabbiswas.pallabbiswas.1999"><img src="https://img.shields.io/badge/-Partho?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-<img alt="Night Coding" src="boy-coding.gif" align="center"/> 
 
