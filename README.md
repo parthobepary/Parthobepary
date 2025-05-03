@@ -16,6 +16,17 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+### 🏆 &nbsp;Achievements & Projects
+
+- 🚀 Built a CMS-based multi-theme website builder using Nuxt 3 & Tailwind CSS.
+- 🛍️ Developed an eCommerce platform with automatic settings generation for new shops.
+- 🔧 Created an advanced dashboard system using Laravel Filament and Reverb.
+- 🌐 Built and deployed business websites for real-world clients like **Energy Hub Bangladesh**.
+- ✨ Open-source contributor to multiple JavaScript and Vue.js projects.
+
+You can check out my work in the pinned repositories or on [my portfolio](https://parthobepary.vercel.app).
+
+
 ### 🛠 &nbsp;Tech Stack
 
 <!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
@@ -23,7 +34,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-<!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
@@ -31,8 +41,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
-<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -41,11 +49,28 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
-<!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\ -->
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+### 🧰 &nbsp;Tools & Platforms
+
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
+
+
+### 🎯 &nbsp;Fun Facts
+
+- 🎵 I love coding while listening to Lofi or instrumental music.
+- 🧩 I enjoy solving logic puzzles and competitive programming problems.
+- 🍕 Pizza & Coffee fuel my late-night coding sessions!
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
