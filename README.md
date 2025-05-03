@@ -46,7 +46,6 @@ You can check out my work in the pinned repositories or on [my portfolio](https:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🧰 &nbsp;Tools & Platforms
 
@@ -59,13 +58,6 @@ You can check out my work in the pinned repositories or on [my portfolio](https:
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
 
 
-### 🎯 &nbsp;Fun Facts
-
-- 🎵 I love coding while listening to Lofi or instrumental music.
-- 🧩 I enjoy solving logic puzzles and competitive programming problems.
-- 🍕 Pizza & Coffee fuel my late-night coding sessions!
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -75,6 +67,14 @@ You can check out my work in the pinned repositories or on [my portfolio](https:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthobepary&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 🎯 &nbsp;Fun Facts
+
+- 🎵 I love coding while listening to Lofi or instrumental music.
+- 🧩 I enjoy solving logic puzzles and competitive programming problems.
+- 🍕 Pizza & Coffee fuel my late-night coding sessions!
+
+
 
 <img alt="Night Coding" src="boy-coding.gif" align="center"/> 
 
